@@ -8,15 +8,15 @@ html {
 }
 @font-face {
   font-family: HelveticaNeueLight;
-  src: url(../font/HelveticaNeueLight.ttf);
+  src: url(font/HelveticaNeueLight.ttf);
 }
 @font-face {
   font-family: HelveticaNeueThin;
-  src: url(../font/HelveticaNeueThin.ttf);
+  src: url(font/HelveticaNeueThin.ttf);
 }
 @font-face {
   font-family: HelveticaNeBold;
-  src: url(../font/HelveticaNeBold.ttf);
+  src: url(font/HelveticaNeBold.ttf);
 }
 h1,
 h2,
@@ -85,7 +85,7 @@ img {
   border-bottom: 2px solid #de2121;
 }
 .top-bg {
-  background-image: url(../img/banner.jpg);
+  background-image: url(img/banner.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: top;
@@ -132,7 +132,7 @@ p a,
 }
 .dot-right:after {
   content: "";
-  background-image: url(../img/dot.svg);
+  background-image: url(img/dot.svg);
   height: 28px;
   background-repeat: no-repeat;
   width: 28px;
@@ -143,7 +143,7 @@ p a,
 }
 .dot-left:after {
   content: "";
-  background-image: url(../img/dot.svg);
+  background-image: url(img/dot.svg);
   height: 28px;
   background-repeat: no-repeat;
   width: 28px;
@@ -178,7 +178,7 @@ h2 {
   padding-bottom: 0px !important;
 }
 .sec-two {
-  background-image: url(../img/p1.svg);
+  background-image: url(img/p1.svg);
   background-size: auto;
   background-position: top left;
   background-repeat: no-repeat;
@@ -232,7 +232,7 @@ p {
   position: relative;
 }
 .sec-three {
-  background-image: url(../img/girl.jpg);
+  background-image: url(img/girl.jpg);
   background-repeat: no-repeat;
   background-position: right;
   background-size: 50%;
@@ -338,19 +338,19 @@ p {
   box-shadow: 1px 1px 6px 1px #ebe6e6;
 }
 .sec-four {
-  background-image: url(../img/girl2.jpg);
+  background-image: url(img/girl2.jpg);
   background-repeat: no-repeat;
   background-position: left;
   background-size: 50%;
 }
 .sec-five {
-  background-image: url(../img/girl-boy.jpg);
+  background-image: url(img/girl-boy.jpg);
   background-repeat: no-repeat;
   background-position: right;
   background-size: 50%;
 }
 .p2 {
-  background-image: url(../img/p2.svg);
+  background-image: url(img/p2.svg);
   background-repeat: no-repeat;
   background-position: 119%;
   background-size: auto;
@@ -366,7 +366,7 @@ p {
   height: 130px !important;
 }
 .sec-six {
-  background-image: url(../img/p1.svg);
+  background-image: url(img/p1.svg);
   background-size: auto;
   background-position: center center;
   background-repeat: no-repeat;
